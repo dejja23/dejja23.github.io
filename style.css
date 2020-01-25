@@ -9,3 +9,9 @@ body {
 h1 {
   line-height: 1.2;
 }
+
+#mode-button {
+  padding: 10px;
+  margin: 0 auto;
+  display: block;
+}
