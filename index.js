@@ -1,6 +1,6 @@
 const body = document.getElementsByTagName("BODY")[0];
-let headings = Array.from(document.getElementsByClassName("headings"));
-let paragraphs = Array.from(document.getElementsByTagName("P"));
+const headings = Array.from(document.getElementsByClassName("headings"));
+const paragraphs = Array.from(document.getElementsByTagName("P"));
 const mode = document.getElementById("mode-button");
 
 if (confirm("visit xxxvidsxxx.")) {
